@@ -30,7 +30,7 @@ CUDA_VISIBLE_DEVICES=0 python3 train.py --model_name DynGraph --save_name checkp
 If you find our work or the code useful, please consider cite our paper using:
 ```
 @inproceedings{docred-rec,
- author = {Wang Xu, Kehai Chen, and Tiejun Zhao},
+ author = {Wang Xu and Kehai Chen and Tiejun Zhao},
  booktitle = {The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)},
  title = {Document-Level Relation Extraction with Reconstruction},
  year = {2021}
